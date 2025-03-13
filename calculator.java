@@ -1,7 +1,7 @@
 package calc;
 
-import java.util.Scanner;
 import static java.lang.System.*;
+import java.util.Scanner;
 
 public class Calculator {
     // CONSTANTS
